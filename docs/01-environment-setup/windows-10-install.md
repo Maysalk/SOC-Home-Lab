@@ -27,9 +27,9 @@ The Windows 10 virtual machine is used to:
 | ---------------- | ------------------------------- |
 | Operating System | Windows 10                      |
 | Role             | Victim Endpoint                 |
-| CPU              | *(Update)*                      |
-| Memory (RAM)     | *(Update)*                      |
-| Disk Size        | *(Update)*                      |
+| CPU              | *(2 vCPU)*                      |
+| Memory (RAM)     | *(3 GB)*                      |
+| Disk Size        | *(50 GB)*                      |
 | Network Adapter  | *(To be configured in Phase 2)* |
 
 ---
@@ -70,6 +70,7 @@ The installation was verified by confirming the following:
 
 ### Windows 10 Desktop
 
+<img width="509" height="423" alt="image" src="https://github.com/user-attachments/assets/caab64a0-8d19-4b10-9ee5-8eeda3dbd1ba" />
 
 ---
 
